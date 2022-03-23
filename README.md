@@ -45,9 +45,9 @@ google sheets on a tab-by-tab basis.
 
 The "names" for google sheets are pretty obvious but for the ids checkout the URL
 ```
-https://docs.google.com/spreadsheets/d/1wSHE6zreQzNj65fBrqG2DAnzcRYPS3RT-vPme-z6o0E/edit#gid=0
+https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit#gid=0
 ```
-Sheet ID: `1wSHE6zreQzNj65fBrqG2DAnzcRYPS3RT-vPme-z6o0E`
-Tab ID: `0` (follows `gid=`)
+* Sheet ID: `1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms`
+* Tab ID: `0` (follows `gid=`)
 
 On that tab you need to have 1 column per field in the WPForms form. The 1st row (header) in the tab needs to match the exact name of the field in the form.

@@ -21,8 +21,8 @@ docker-compose down
 NOTE: it takes about a minute to fully startup.
 
 ## Links
-Local Wordpress Site: `http://localhost:8000`
-phpMyAdmin: `http://localhost:8080`
+* Local Wordpress Site: `http://localhost:8000`
+* phpMyAdmin: `http://localhost:8080`
 
 ## Plugins
 ### Setup/Install
@@ -36,8 +36,8 @@ Make sure it is right folder after unzipping - not containing zip name with vers
 To activate the installed plugins go to the Wordpress site plugins section and activate.
 
 ### (free) Plugins to Experiment with
-[wpforms-lite](https://wordpress.org/plugins/wpforms-lite/)
-[gsheetconnector-wpforms](https://wordpress.org/plugins/gsheetconnector-wpforms/)
+* [wpforms-lite](https://wordpress.org/plugins/wpforms-lite/)
+* [gsheetconnector-wpforms](https://wordpress.org/plugins/gsheetconnector-wpforms/)
 
 ### gsheetconnector
 After logging into google account with access code you configure
